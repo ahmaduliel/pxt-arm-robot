@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "pxt-arm-robot": "workspace:f7a0569d-f61e-4546-5264-6f6129b75881"
     },
     "files": [
         "README.md",
