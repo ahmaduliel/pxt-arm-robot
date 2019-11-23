@@ -1,0 +1,19 @@
+{
+    "name": "pxt-arm-robot",
+    "version": "0.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "Roboqu.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "preferredEditor": "tsprj"
+}
